@@ -33,5 +33,13 @@
     "flights",
     "routes",
     "airports"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maic0n/flights-routes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maic0n/flights-routes/issues"
+  },
+  "homepage": "https://github.com/maic0n/flights-routes#readme"
 }
