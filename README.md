@@ -12,6 +12,8 @@ npm start
 
 ## As rotas
 > O parâmetro `:route` da url utiliza o formato `IATA code` de 3 dígitos. Exemplo: `CGH-SDU`.
+> 
+> As rotas podem ser testadas no endereço https://flights-routes.herokuapp.com/
 
 * Mostra a rota com melhor preço
 ** GET: /flights/route/`:route`?input_file=`input-file.txt`
